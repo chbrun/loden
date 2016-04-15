@@ -1,5 +1,5 @@
-Enlève les points
-#################
+Suppression des points
+######################
 
 :date: 2016-01-25 18:30
 :tags: chiot, véto

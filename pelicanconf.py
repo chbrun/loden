@@ -7,6 +7,7 @@ SITENAME = u"Loden : future handi'chien"
 SITEURL = ''
 
 PATH = 'content'
+STATIC_PATHS = ['images', ]
 
 TIMEZONE = 'Europe/Paris'
 
@@ -18,6 +19,9 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+
+PLUGIN_PATHS = ["plugins", ]
+PLUGINS = ["summary",]
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
